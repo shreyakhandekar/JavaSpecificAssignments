@@ -1,0 +1,7 @@
+2
+To check the maximum characters in descending order.
+A comparator interface is used to order the objects of user-defined classes.
+
+A comparator object is capable of comparing two objects of two different classes.
+
+Method of Collections class for sorting List elements is used to sort the elements of List by the given comparator.

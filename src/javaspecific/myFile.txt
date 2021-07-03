@@ -1,0 +1,6 @@
+hii My name is Shreya
+The program is to find the most repeated word present in this file.
+This can be done by opening a file in read mode using file pointer.
+Read the file line by line.
+Split a line at a time and store in an array.
+Iterate through the array and find the frequency of each word and compare the frequency with maxcount. If frequency is greater than maxcount then store the frequency in maxcount and corresponding word that in variable word.
